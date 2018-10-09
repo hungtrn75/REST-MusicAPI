@@ -4,12 +4,6 @@
 npm install
 ```
 
-## Start MongoDB
-
-```shell
-mongod
-```
-
 ## Run Application
 
 ```shell
